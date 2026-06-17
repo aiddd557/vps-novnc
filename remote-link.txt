@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://essence-spirituality-supported-navigation.trycloudflare.com/vnc.html
+URL       : https://translations-prompt-checked-additional.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 04:13:02
+Created   : 2026-06-17 09:53:51
 =======================================================
