@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suggestions-typically-cream-buck.trycloudflare.com/vnc.html
+URL       : https://conduct-our-links-heavy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 22:05:13
+Created   : 2026-06-23 03:38:50
 =======================================================
