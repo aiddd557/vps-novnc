@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://summit-manhattan-divided-onion.trycloudflare.com/vnc.html
+URL       : https://glucose-drawings-kruger-transit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-26 17:03:18
+Created   : 2026-06-26 21:22:08
 =======================================================
