@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://glucose-drawings-kruger-transit.trycloudflare.com/vnc.html
+URL       : https://origin-celtic-job-shipping.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-26 21:22:08
+Created   : 2026-06-27 03:32:15
 =======================================================
