@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kevin-there-new-you.trycloudflare.com/vnc.html
+URL       : https://sys-slim-bridge-doc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 03:55:33
+Created   : 2026-06-28 08:24:40
 =======================================================
