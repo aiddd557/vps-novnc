@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://parish-mailto-printed-segments.trycloudflare.com/vnc.html
+URL       : https://insulation-assume-grateful-postposted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 21:32:01
+Created   : 2026-07-02 03:39:28
 =======================================================
