@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fundamental-implementation-fairly-trinity.trycloudflare.com/vnc.html
+URL       : https://authorities-was-shower-adopted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 16:53:05
+Created   : 2026-07-02 21:10:53
 =======================================================
