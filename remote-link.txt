@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://superintendent-cargo-knowledge-resumes.trycloudflare.com/vnc.html
+URL       : https://indicated-foster-stick-brave.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 08:14:02
+Created   : 2026-07-02 12:11:43
 =======================================================
