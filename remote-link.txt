@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://further-snake-recorders-theft.trycloudflare.com/vnc.html
+URL       : https://usually-wal-decide-optics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 02:58:36
+Created   : 2026-07-04 07:48:49
 =======================================================
