@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://string-semiconductor-removable-romance.trycloudflare.com/vnc.html
+URL       : https://winning-transparency-enforcement-directive.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 21:00:41
+Created   : 2026-07-05 03:28:23
 =======================================================
