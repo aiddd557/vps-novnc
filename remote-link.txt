@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://street-colleague-sapphire-alot.trycloudflare.com/vnc.html
+URL       : https://includes-passage-reid-telephone.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 07:59:09
+Created   : 2026-07-05 11:38:12
 =======================================================
