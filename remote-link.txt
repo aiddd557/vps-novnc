@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://impressed-carl-mardi-norm.trycloudflare.com/vnc.html
+URL       : https://innovative-eng-admitted-wedding.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 21:03:16
+Created   : 2026-07-06 03:36:08
 =======================================================
