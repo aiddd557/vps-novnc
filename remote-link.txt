@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://alliance-armed-design-citation.trycloudflare.com/vnc.html
+URL       : https://reel-connectors-mime-commit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-08 16:41:53
+Created   : 2026-07-08 21:10:30
 =======================================================
