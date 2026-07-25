@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://deutsch-doe-extent-optional.trycloudflare.com/vnc.html
+URL       : https://freight-get-dim-hostels.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-25 07:19:48
+Created   : 2026-07-25 11:12:59
 =======================================================
