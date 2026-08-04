@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://supervisor-valves-arab-battle.trycloudflare.com/vnc.html
+URL       : https://landing-with-frederick-seats.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 02:33:30
+Created   : 2026-08-04 07:42:20
 =======================================================
