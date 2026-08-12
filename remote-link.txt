@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handmade-covers-this-truck.trycloudflare.com/vnc.html
+URL       : https://aurora-belong-celebration-additional.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 01:58:05
+Created   : 2026-08-12 11:02:00
 =======================================================
