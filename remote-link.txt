@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://duke-approve-responding-comfortable.trycloudflare.com/vnc.html
+URL       : https://vii-hats-handling-follows.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 16:01:05
+Created   : 2026-08-13 20:44:41
 =======================================================
