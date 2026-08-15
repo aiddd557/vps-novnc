@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://motels-desktops-proud-burlington.trycloudflare.com/vnc.html
+URL       : https://attribute-dale-ultram-edt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 01:15:37
+Created   : 2026-08-15 05:26:22
 =======================================================
