@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://activity-cleaner-beginners-temporary.trycloudflare.com/vnc.html
+URL       : https://baseline-mhz-ons-templates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 15:36:11
+Created   : 2026-08-20 20:30:38
 =======================================================
