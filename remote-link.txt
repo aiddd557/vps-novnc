@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://courage-empty-ton-interesting.trycloudflare.com/vnc.html
+URL       : https://collapse-dog-trains-facility.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 03:53:58
+Created   : 2026-09-01 09:49:03
 =======================================================
