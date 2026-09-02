@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://correct-following-insights-served.trycloudflare.com/vnc.html
+URL       : https://proxy-renaissance-defines-thank.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 14:10:07
+Created   : 2026-09-02 18:29:47
 =======================================================
