@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://including-fence-shuttle-necessity.trycloudflare.com/vnc.html
+URL       : https://lift-roads-chosen-arms.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-15 09:50:36
+Created   : 2026-09-15 14:42:48
 =======================================================
