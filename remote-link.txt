@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://systematic-having-gods-durham.trycloudflare.com/vnc.html
+URL       : https://eric-merry-midwest-surge.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-01 04:31:26
+Created   : 2026-10-01 11:26:26
 =======================================================
