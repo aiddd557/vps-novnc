@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://logos-russell-penalties-curriculum.trycloudflare.com/vnc.html
+URL       : https://bald-approval-manual-jvc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 10:34:22
+Created   : 2026-10-19 20:25:57
 =======================================================
