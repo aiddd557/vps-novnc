@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://glenn-dense-elections-wyoming.trycloudflare.com/vnc.html
+URL       : https://semi-literacy-overview-mozilla.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 09:37:52
+Created   : 2026-10-25 14:10:33
 =======================================================
