@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://microwave-preventing-receivers-indicated.trycloudflare.com/vnc.html
+URL       : https://martin-profession-translate-see.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 23:09:36
+Created   : 2026-11-01 04:44:01
 =======================================================
