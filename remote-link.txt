@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://protein-arthur-website-obvious.trycloudflare.com/vnc.html
+URL       : https://poor-macro-priced-closes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-11 12:29:46
+Created   : 2026-11-11 21:47:26
 =======================================================
