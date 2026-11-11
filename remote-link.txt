@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://insulin-eyed-putting-eliminate.trycloudflare.com/vnc.html
+URL       : https://consumption-jade-parental-rentals.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 17:32:38
+Created   : 2026-11-11 00:28:09
 =======================================================
