@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://edit-industrial-lights-sodium.trycloudflare.com/vnc.html
+URL       : https://analysts-inclusion-linux-resume.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-12 06:00:55
+Created   : 2026-11-12 17:59:14
 =======================================================
