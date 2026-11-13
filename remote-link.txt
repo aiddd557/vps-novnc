@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://analysts-inclusion-linux-resume.trycloudflare.com/vnc.html
+URL       : https://vegetarian-mart-majority-ecological.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-12 17:59:14
+Created   : 2026-11-13 00:57:18
 =======================================================
