@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://asking-wool-style-julia.trycloudflare.com/vnc.html
+URL       : https://plays-ideal-chancellor-pull.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 21:14:56
+Created   : 2026-11-14 05:14:12
 =======================================================
